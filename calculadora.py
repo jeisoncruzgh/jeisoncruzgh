@@ -21,7 +21,7 @@ if(opcion == 1):
 elif(opcion == 2):
     print(f"El resultado de la resta es:{calc.resta()}")
 elif(opcion == 3):
-    print(f"El resultado de la multiplicacion es:{calc.mult()}")
+    print(f"Eld resultado de la multiplicacion es:{calc.mult()}")
 elif(opcion == 4) and numerouno != 0:
     print(f"El resultado de la division es:{calc.div()}")
 else:
